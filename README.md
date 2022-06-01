@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martin-jeremy <i class="fa-brands fa-linkedin"></i>
+- 👋 Hi, I’m @martin-jeremy [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/jeremy-martin-tlse/)
 - 👀 I’m interested in Bioinformatics and Computational biology
 - 🌱 I’m currently working on transcriptomics data within French Medical Research Institute.
 - 💞️ I’m collaborating with the [Team 3, INFINITy](https://www.infinity.inserm.fr/en/research-teams/team-3-n-gaudenzio/).
