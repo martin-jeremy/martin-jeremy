@@ -1,6 +1,7 @@
 - 👋 Hi, I’m [@martin-jeremy <img src="https://img.freepik.com/vecteurs-premium/linkedin-logo_578229-227.jpg" width=2.5%/>](https://www.linkedin.com/in/jeremy-martin-tlse/)
 - 👀 I’m interested in Data Engineering and Data QA.
-- ⚙️ I’m currently focusing on Data Engineering and QA Testing with BYG4LAB, a middleware company for biological labs in Toulouse.
+- ⚙️ I’m currently focusing on Data Engineering with Ascentry, a middleware company for biological labs in Toulouse.
+- 🪶 I think that  every company should have a Light - Modern Data Plateform
 - 💻 I work at [Ascentry](https://www.ascentry.com/).
 
 <!---
